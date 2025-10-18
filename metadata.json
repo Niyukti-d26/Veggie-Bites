@@ -1,0 +1,7 @@
+{
+  "name": "Veggie Bites",
+  "description": "An AI-powered vegetarian recipe discovery platform. Explore global cuisines, generate unique recipes with Gemini, and create your own beautiful cookbook. Welcome to Veggie Bites!",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
